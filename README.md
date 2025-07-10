@@ -21,3 +21,7 @@ venv\Scripts\activate     # Windows
 
 ## run 
 python main.py
+
+#output
+processed video saved at name 
+/- output.mp4
